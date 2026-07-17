@@ -50,10 +50,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=reduv20-cloud&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=reduv20-cloud&theme=gotham&hide_border=false" alt="GitHub Streak" width="48%" />
-</p>
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=reduv20-cloud&show_icons=true&theme=gotham&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=reduv20-cloud&theme=gotham&hide_border=false)
 
 ---
 
