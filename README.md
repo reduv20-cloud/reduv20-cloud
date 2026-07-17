@@ -51,8 +51,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reduv20-cloud&show_icons=true&theme=visual_studio_code" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reduv20-cloud&layout=compact&theme=visual_studio_code" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=reduv20-cloud&show_icons=true&theme=visual_studio_code" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=reduv20-cloud&layout=compact&theme=visual_studio_code" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
